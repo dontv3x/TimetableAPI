@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nearsixthangel.TimetableAPI.TimetableApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.013 s -- in com.nearsixthangel.TimetableAPI.TimetableApiApplicationTests
